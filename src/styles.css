@@ -1,0 +1,5 @@
+body > div.notes-container > div > div > div > div > div {
+    max-height: 110px !important;
+    scroll:auto;
+    overflow-y:scroll;
+}
